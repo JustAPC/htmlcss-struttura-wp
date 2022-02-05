@@ -12,24 +12,25 @@
 
 body{
     width: 80%;
-    margin: 0 auto;
+    height: 100vh;
+    margin: auto;
 }
 
 header{
     background-color: #E579E6;
     width: 100%;
-    height: 100px;
-    margin: 15px auto;
+    height: 10%;
+    margin: 1% auto;
 }
 .paragrafo-1{
     background-color: #E1D67A;
     width: 100%;
-    height: 300px;
-    margin: 15px auto;
+    height: 30vh;
+    margin: 1% auto;
 }
 
 .paragrafo-2{
-    height: 400px;
+    height: 45vh;
     width: 100%;
     background-color: #0185FF;
 }
@@ -37,29 +38,29 @@ header{
 .sezione-top{
     background-color: #ABCFE7;
     width: 100%;
-    height: 50px;
-    margin-bottom: 20px;
+    height: 15%;
+    margin-bottom: 1%;
     }
 
 .sezione-side{ 
     background-color: #ABCFE7;
     width: 20%;
-    height: 320px;
+    height: 77%;
     float: left;
 }
 
 .sezione-mid{
     background-color: #ABCFE7;
-    height: 320px;
-    width: calc( 60% - 20px);
-    margin-left: 10px;
-    margin-right: 10px;
+    height: 77%;
+    width: calc( 60% - 2%);
+    margin-left: 1%;
+    margin-right: 1%;
     float: left;
 }
 
 footer {
     width: 100%;
-    height: 40px;
+    height: 5vh;
     background: #8601FF;
-    margin: 5px auto;
+    margin: 1% auto;
 }
